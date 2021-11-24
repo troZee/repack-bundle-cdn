@@ -1,0 +1,1 @@
+(self.webpackChunkTesterApp=self.webpackChunkTesterApp||[]).push([["src_Async_js"],{35447:function(e,t,n){var s=n(95318);Object.defineProperty(t,"__esModule",{value:!0}),t.default=function(){return c.default.createElement(u.Text,null,"Async: this text comes from async chunk")};var c=s(n(35466)),u=n(79765)}}]);//# sourceMappingURL=src_Async_js.chunk.bundle.map?platform=android

@@ -1,0 +1,1 @@
+{"version":3,"file":"src_Async_js.chunk.bundle","mappings":"oLAGe,WACb,OAAO,wBAAC,EAAAA,KAAD,iDAJT,kBACA","sources":["webpack:///./src/Async.js"],"sourcesContent":["import React from 'react';\nimport { Text } from './Text';\n\nexport default function Async() {\n  return <Text>Async: this text comes from async chunk</Text>;\n}\n"],"names":["Text"],"sourceRoot":""}
